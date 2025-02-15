@@ -2,7 +2,7 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/github/license/yourusername/NSFWTube?style=for-the-badge)
+![License](https://img.shields.io/github/license/rawnullbyte/NSFWTube?style=for-the-badge)
 
 A Flutter-based mobile application for browsing Rule34 content with a modern, user-friendly interface.
 
